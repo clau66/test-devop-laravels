@@ -1,0 +1,27 @@
+total 704
+drwxr-xr-x@ 26 claudioraucci  staff     832  6 Feb 13:26 .
+drwxr-xr-x  17 claudioraucci  staff     544  5 Feb 12:13 ..
+-rw-r--r--@  1 claudioraucci  staff     252 19 Gen 18:57 .editorconfig
+-rw-r--r--@  1 claudioraucci  staff    1123 29 Gen 21:07 .env
+-rw-r--r--@  1 claudioraucci  staff    1086 29 Gen 21:06 .env.example
+-rw-r--r--@  1 claudioraucci  staff     186 19 Gen 18:57 .gitattributes
+-rw-r--r--@  1 claudioraucci  staff     283 19 Gen 18:57 .gitignore
+drwxr-xr-x@  5 claudioraucci  staff     160 19 Gen 18:57 app
+-rwxr-xr-x@  1 claudioraucci  staff     425 19 Gen 18:57 artisan
+drwxr-xr-x@  5 claudioraucci  staff     160 19 Gen 18:57 bootstrap
+-rw-r--r--@  1 claudioraucci  staff    2368  4 Feb 12:02 compose.yaml
+-rw-r--r--@  1 claudioraucci  staff    2869 29 Gen 21:06 composer.json
+-rw-r--r--@  1 claudioraucci  staff  308575 29 Gen 21:06 composer.lock
+drwxr-xr-x@ 12 claudioraucci  staff     384 19 Gen 18:57 config
+drwxr-xr-x@  7 claudioraucci  staff     224 29 Gen 21:06 database
+-rw-r--r--@  1 claudioraucci  staff     414 19 Gen 18:57 package.json
+-rw-r--r--@  1 claudioraucci  staff    1232 29 Gen 21:07 phpunit.xml
+drwxr-xr-x@  7 claudioraucci  staff     224 29 Gen 22:24 public
+-rw-r--r--@  1 claudioraucci  staff    3911 19 Gen 18:57 README.md
+drwxr-xr-x@  5 claudioraucci  staff     160 19 Gen 18:57 resources
+drwxr-xr-x@  4 claudioraucci  staff     128 19 Gen 18:57 routes
+drwxr-xr-x@  5 claudioraucci  staff     160 19 Gen 18:57 storage
+-rw-r--r--@  1 claudioraucci  staff       0  6 Feb 13:26 test-devop-laravels-ls-la.txt
+drwxr-xr-x@  5 claudioraucci  staff     160 19 Gen 18:57 tests
+drwxr-xr-x@ 40 claudioraucci  staff    1280 29 Gen 21:06 vendor
+-rw-r--r--@  1 claudioraucci  staff     436 19 Gen 18:57 vite.config.js
